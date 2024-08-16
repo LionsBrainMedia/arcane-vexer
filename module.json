@@ -6,7 +6,9 @@
     "minimum": "11",
     "verified": "11"
   },
-  "url": "https://raw.githubusercontent.com/LionsBrainMedia/arcane-vexer/master/module.json",
+  "url": "https://github.com/LionsBrainMedia/arcane-vexer",
+"manifest": "https://raw.githubusercontent.com/LionsBrainMedia/arcane-vexer/main/module.json",
+"download": "https://github.com/LionsBrainMedia/arcane-vexer/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "rogue-racket-and-feats",
